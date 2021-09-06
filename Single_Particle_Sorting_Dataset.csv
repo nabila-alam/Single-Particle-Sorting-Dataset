@@ -1,4 +1,4 @@
-r/lambda,particle loss,particle ref index,background ref index,background loss,short background width,short background ref index,short background loss,Force
+r/lambda,particle loss,particle ref index,background ref index,background loss,short background width,short background ref index,short background loss,Class Label
 5,0.005,3,3.1,0.005,20,1.5,0.005,Optical Pushing Force
 4.6,0.001,2.8,2.9,0.001,18,1.1,0.001,Optical Pushing Force
 4,0.005,3,3.1,0.005,20,1.5,0.005,Optical Pushing Force
